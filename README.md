@@ -103,3 +103,7 @@ https://ph-assignment-09-amin-ur-rahman.netlify.app/
 Credits
 
 Built with dedication by Aminur Rahman, combining React, Tailwind, and a love for modern game design.
+
+- **Email**: amin.ar679799@gmail.com
+- **GitHub**: [Amin-ur-Rahman](https://github.com/Amin-ur-Rahman)
+- **LinkedIn**: [Aminur Rahman](https://www.linkedin.com/in/aminur-rahman-116506360/)
