@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Echoes of Eternity",
+    "genre": "Action RPG",
+    "description": "A fantasy adventure set in a fractured world where memories shape reality.",
+    "image": "https://i.ibb.co.com/pj7452g0/fcd452989b4af3de1729e0abfa89bf60.jpg",
+    "releaseDate": "March 18, 2026",
+    "platforms": ["PC", "PlayStation 5", "Xbox Series X"]
+  },
+  {
+    "id": 2,
+    "title": "Cyber Drift X",
+    "genre": "Racing",
+    "description": "High-speed neon racing through the streets of Neo-Tokyo.",
+    "image": "https://i.ibb.co.com/DPPg7wcC/9804601e9202630cba1574235afcaa3e.jpg",
+    "releaseDate": "August 10, 2025",
+    "platforms": ["PC", "PlayStation 5"]
+  },
+  {
+    "id": 3,
+    "title": "Silent Vale",
+    "genre": "Horror / Mystery",
+    "description": "Uncover the truth behind a cursed valley where time stands still.",
+    "image": "https://i.ibb.co.com/XZrkX3w6/6a6aaf3701e5792b63b98c4eab023c15.jpg",
+    "releaseDate": "October 31, 2025",
+    "platforms": ["PC", "PlayStation 5", "Xbox Series X"]
+  },
+  {
+    "id": 4,
+    "title": "Starborn Legacy",
+    "genre": "Sci-Fi Strategy",
+    "description": "Build, conquer, and survive in a galaxy torn between empires and rebels.",
+    "image": "https://i.ibb.co.com/MxPDGtqh/f5718dc860428baddb61c0122e0e5eef.jpg",
+    "releaseDate": "January 7, 2026",
+    "platforms": ["PC"]
+  },
+  {
+    "id": 5,
+    "title": "Mythfall Chronicles",
+    "genre": "Fantasy Adventure",
+    "description": "Embark on a mythical journey through lands ruled by elemental gods.",
+    "image": "https://i.ibb.co.com/pvsWy89y/77cdd7b5cb4db656fb44355178b67305.jpg",
+    "releaseDate": "May 22, 2025",
+    "platforms": ["PC", "Switch"]
+  },
+  {
+    "id": 6,
+    "title": "Urban Shadows",
+    "genre": "Open-World Action",
+    "description": "Rule the streets of a dystopian metropolis in this gritty underworld saga.",
+    "image": "https://i.ibb.co.com/Z1Y2m2t2/dd5ba0b49afb37b2c77a5d6a59e389e3.jpg",
+    "releaseDate": "September 14, 2025",
+    "platforms": ["PC", "PlayStation 5", "Xbox Series X"]
+  },
+  {
+    "id": 7,
+    "title": "Astral Frontier",
+    "genre": "Exploration / Survival",
+    "description": "Traverse uncharted planets and uncover alien civilizations in deep space.",
+    "image": "https://i.ibb.co.com/XxkZZg1C/37e9fef4ab2d984c22588d8150b1ce9b.jpg",
+    "releaseDate": "December 3, 2025",
+    "platforms": ["PC", "PlayStation 5"]
+  },
+  {
+    "id": 8,
+    "title": "Project Eden",
+    "genre": "Simulation / Sandbox",
+    "description": "Rebuild humanity from the ruins and terraform a new Eden.",
+    "image": "https://i.ibb.co.com/Vp04sKs8/caeaaedb6b6a54ed402ed3ada4ade457.jpg",
+    "releaseDate": "February 9, 2026",
+    "platforms": ["PC", "Xbox Series X"]
+  }
+]

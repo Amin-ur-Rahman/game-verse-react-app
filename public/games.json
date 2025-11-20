@@ -1,0 +1,243 @@
+[
+  {
+    "id": "1",
+    "title": "Celeste",
+    "coverPhoto": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800",
+    "category": "Platformer",
+    "downloadLink": "https://example.com/downloads/celeste",
+    "description": "A challenging platformer about climbing a mountain, featuring tight controls, memorable characters, and a touching story about overcoming anxiety and self-doubt.",
+    "ratings": "4.9",
+    "developer": "Maddy Makes Games"
+  },
+  {
+    "id": "2",
+    "title": "Hollow Knight",
+    "coverPhoto": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800",
+    "category": "Metroidvania",
+    "downloadLink": "https://example.com/downloads/hollow-knight",
+    "description": "Explore a vast, interconnected underground kingdom filled with quirky characters, deadly enemies, and hidden secrets in this beautifully hand-drawn action-adventure.",
+    "ratings": "4.8",
+    "developer": "Team Cherry"
+  },
+  {
+    "id": "3",
+    "title": "Stardew Valley",
+    "coverPhoto": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800",
+    "category": "Farming Sim",
+    "downloadLink": "https://example.com/downloads/stardew-valley",
+    "description": "Build the farm of your dreams, explore caves, befriend townsfolk, and discover the magic of rural life in this beloved farming simulation RPG.",
+    "ratings": "4.9",
+    "developer": "ConcernedApe"
+  },
+  {
+    "id": "4",
+    "title": "Undertale",
+    "coverPhoto": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800",
+    "category": "RPG",
+    "downloadLink": "https://example.com/downloads/undertale",
+    "description": "A unique RPG where nobody has to die. Navigate a quirky underground world filled with humor, heart, and memorable characters with multiple story paths.",
+    "ratings": "4.7",
+    "developer": "Toby Fox"
+  },
+  {
+    "id": "5",
+    "title": "Dead Cells",
+    "coverPhoto": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
+    "category": "Roguelike",
+    "downloadLink": "https://example.com/downloads/dead-cells",
+    "description": "A roguelike action-platformer with fluid combat, permanent death, and no checkpoints. Master tight gameplay and explore an ever-changing castle.",
+    "ratings": "4.6",
+    "developer": "Motion Twin"
+  },
+  {
+    "id": "6",
+    "title": "Cuphead",
+    "coverPhoto": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800",
+    "category": "Run and Gun",
+    "downloadLink": "https://example.com/downloads/cuphead",
+    "description": "A classic run-and-gun action game with hand-drawn 1930s cartoon aesthetics, challenging boss battles, and a jazz soundtrack.",
+    "ratings": "4.7",
+    "developer": "Studio MDHR"
+  },
+  {
+    "id": "7",
+    "title": "Terraria",
+    "coverPhoto": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=800",
+    "category": "Sandbox",
+    "downloadLink": "https://example.com/downloads/terraria",
+    "description": "Dig, fight, explore, and build in this 2D sandbox adventure. Craft weapons, summon bosses, and create your own world with endless possibilities.",
+    "ratings": "4.8",
+    "developer": "Re-Logic"
+  },
+  {
+    "id": "8",
+    "title": "Hades",
+    "coverPhoto": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800",
+    "category": "Roguelike",
+    "downloadLink": "https://example.com/downloads/hades",
+    "description": "Defy the god of the dead as you battle out of the Underworld in this fast-paced roguelike with stunning art, engaging story, and addictive gameplay.",
+    "ratings": "4.9",
+    "developer": "Supergiant Games"
+  },
+  {
+    "id": "9",
+    "title": "A Short Hike",
+    "coverPhoto": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800",
+    "category": "Adventure",
+    "downloadLink": "https://example.com/downloads/short-hike",
+    "description": "A relaxing exploration game about hiking to the top of a mountain. Talk to quirky characters, discover hidden treasures, and enjoy the peaceful journey.",
+    "ratings": "4.8",
+    "developer": "adamgryu"
+  },
+  {
+    "id": "10",
+    "title": "Into the Breach",
+    "coverPhoto": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=800",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/downloads/into-the-breach",
+    "description": "Control powerful mechs to defend civilization against giant creatures in this turn-based strategy game with perfect information and endless replayability.",
+    "ratings": "4.7",
+    "developer": "Subset Games"
+  },
+  {
+    "id": "11",
+    "title": "Slay the Spire",
+    "coverPhoto": "https://images.unsplash.com/photo-1556856425-366d6618905d?w=800",
+    "category": "Deck Builder",
+    "downloadLink": "https://example.com/downloads/slay-the-spire",
+    "description": "Craft a unique deck, encounter bizarre creatures, and climb the Spire in this fusion of card games and roguelikes with hundreds of cards to discover.",
+    "ratings": "4.8",
+    "developer": "MegaCrit"
+  },
+  {
+    "id": "12",
+    "title": "Outer Wilds",
+    "coverPhoto": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=800",
+    "category": "Exploration",
+    "downloadLink": "https://example.com/downloads/outer-wilds",
+    "description": "Explore a hand-crafted solar system trapped in a time loop. Uncover mysteries, piece together clues, and discover the secrets of an ancient alien race.",
+    "ratings": "4.9",
+    "developer": "Mobius Digital"
+  },
+
+  {
+    "id": "14",
+    "title": "Gris",
+    "coverPhoto": "https://images.unsplash.com/photo-1579547621113-e4bb2a19bdd6?w=800",
+    "category": "Puzzle Platformer",
+    "downloadLink": "https://example.com/downloads/gris",
+    "description": "A serene and evocative experience about a young girl dealing with painful experiences. No danger, no death—just a beautiful journey through sorrow.",
+    "ratings": "4.7",
+    "developer": "Nomada Studio"
+  },
+  {
+    "id": "15",
+    "title": "Risk of Rain 2",
+    "coverPhoto": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800",
+    "category": "Roguelike",
+    "downloadLink": "https://example.com/downloads/risk-of-rain-2",
+    "description": "Fight through hordes of monsters in this multiplayer roguelike. Combine loot and discover synergies to survive increasingly difficult challenges.",
+    "ratings": "4.7",
+    "developer": "Hopoo Games"
+  },
+  {
+    "id": "16",
+    "title": "Limbo",
+    "coverPhoto": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800",
+    "category": "Puzzle Platformer",
+    "downloadLink": "https://example.com/downloads/limbo",
+    "description": "A dark and atmospheric puzzle platformer about a boy searching for his sister. Solve environmental puzzles in a haunting monochrome world.",
+    "ratings": "4.5",
+    "developer": "Playdead"
+  },
+  {
+    "id": "17",
+    "title": "Firewatch",
+    "coverPhoto": "https://images.unsplash.com/photo-1511593358241-7eea1f3c84e5?w=800",
+    "category": "Adventure",
+    "downloadLink": "https://example.com/downloads/firewatch",
+    "description": "A first-person mystery set in the Wyoming wilderness. Your only contact is the voice on the other end of a handheld radio as strange events unfold.",
+    "ratings": "4.4",
+    "developer": "Campo Santo"
+  },
+  {
+    "id": "18",
+    "title": "Don't Starve Together",
+    "coverPhoto": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800",
+    "category": "Survival",
+    "downloadLink": "https://example.com/downloads/dont-starve-together",
+    "description": "Survive in a harsh wilderness with quirky characters. Gather resources, craft items, and battle strange creatures in this multiplayer survival game.",
+    "ratings": "4.6",
+    "developer": "Klei Entertainment"
+  },
+  {
+    "id": "19",
+    "title": "Fez",
+    "coverPhoto": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=800",
+    "category": "Puzzle Platformer",
+    "downloadLink": "https://example.com/downloads/fez",
+    "description": "A 2D platformer with a twist—rotate the world to reveal hidden paths. Explore a beautiful pixelated world filled with secrets and perspective puzzles.",
+    "ratings": "4.5",
+    "developer": "Polytron Corporation"
+  },
+  {
+    "id": "20",
+    "title": "The Binding of Isaac",
+    "coverPhoto": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
+    "category": "Roguelike",
+    "downloadLink": "https://example.com/downloads/binding-of-isaac",
+    "description": "A randomly generated action RPG shooter with heavy roguelike elements. Battle through dungeons filled with disturbing enemies and bizarre power-ups.",
+    "ratings": "4.6",
+    "developer": "Edmund McMillen"
+  },
+  {
+    "id": "21",
+    "title": "Bastion",
+    "coverPhoto": "https://images.unsplash.com/photo-1556856425-366d6618905d?w=800",
+    "category": "Action RPG",
+    "downloadLink": "https://example.com/downloads/bastion",
+    "description": "An action RPG featuring dynamic narration that responds to your actions. Build the Bastion while exploring a shattered world with stunning visuals.",
+    "ratings": "4.7",
+    "developer": "Supergiant Games"
+  },
+  {
+    "id": "22",
+    "title": "Inside",
+    "coverPhoto": "https://images.unsplash.com/photo-1579547621113-e4bb2a19bdd6?w=800",
+    "category": "Puzzle Platformer",
+    "downloadLink": "https://example.com/downloads/inside",
+    "description": "A dark, narrative-driven platformer from the creators of Limbo. Solve puzzles and avoid capture in a dystopian world with a mind-bending twist.",
+    "ratings": "4.8",
+    "developer": "Playdead"
+  },
+  {
+    "id": "23",
+    "title": "Faster Than Light",
+    "coverPhoto": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=800",
+    "category": "Strategy",
+    "downloadLink": "https://example.com/downloads/ftl",
+    "description": "Manage a spaceship and crew in this challenging roguelike strategy game. Make tactical decisions in real-time space battles across procedurally generated sectors.",
+    "ratings": "4.6",
+    "developer": "Subset Games"
+  },
+  {
+    "id": "24",
+    "title": "Hotline Miami",
+    "coverPhoto": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800",
+    "category": "Action",
+    "downloadLink": "https://example.com/downloads/hotline-miami",
+    "description": "A high-octane action game with brutal combat and a gripping storyline. Navigate neon-soaked levels with an incredible synthwave soundtrack.",
+    "ratings": "4.5",
+    "developer": "Dennaton Games"
+  },
+  {
+    "id": "25",
+    "title": "Ori and the Blind Forest",
+    "coverPhoto": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800",
+    "category": "Metroidvania",
+    "downloadLink": "https://example.com/downloads/ori-blind-forest",
+    "description": "A stunning hand-painted platformer with emotional storytelling. Navigate challenging platforming sequences and discover new abilities in a magical forest.",
+    "ratings": "4.9",
+    "developer": "Moon Studios"
+  }
+]
