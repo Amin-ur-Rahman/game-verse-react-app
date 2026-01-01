@@ -98,7 +98,7 @@ The optimized production files will be generated in the dist folder.
 
 🌍 Live Demo
 ```
-https://ph-assignment-09-amin-ur-rahman.netlify.app/
+https://game-verse-react-app.vercel.app/
 ```
 Credits
 
